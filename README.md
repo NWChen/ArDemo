@@ -1,4 +1,4 @@
 SHARC
 =====
 
-Simple master-slave robotic arm controller
+Simple haptic master-slave robotic arm controller
